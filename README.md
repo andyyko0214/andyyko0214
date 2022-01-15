@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Andy
 - 👀 I’m interested in Front End Langauage
-- 🌱 I’m currently learning SailJs
+- 🌱 I’m currently learning SailsJs
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me andyyko0214@gmail.com
 
